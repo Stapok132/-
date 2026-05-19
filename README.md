@@ -2,26 +2,26 @@
 ## Лабораторная работа №1
 ## Часть 1. Реализация функции: подсчет числа Фибоначчи
 ### 1)Заголовочный файл fibonacci.h
-![](1.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/1.png)
 ### 2)Реализация функции fibonacci.cpp
-![](2.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/2.png) 
 ### 3)Основная программа main.cpp
-![](3.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/3.png)
 ### 4)Компиляция и запуск
-![](4.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/4.png)
 ## Часть 2. Компиляция в ассемблерный код
 ### 1)Без оптимизации (-O0)
-![](5.pgn)
-![](6.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/5.png)
+![](https://github.com/Stapok132/-/blob/main/image/6.png)
 ### 2)С оптимизацией (-O3)
-![](7.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/7.png)
 ## Часть 3. Создание Makefile
 ### 1)Файл Makefile
-![](8.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/8.png)
 ### 2)Результат выполнения сборки
-![](9.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/9.png)
 ## Часть 4. Усовершенствование программы
 ### 1)Добавление параллельного потока и синхронизации
-![](10.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/10.png)
 ### 2)Обновлённый Makefile
-![](11.pgn)
+![](https://github.com/Stapok132/-/blob/main/image/11.png)
