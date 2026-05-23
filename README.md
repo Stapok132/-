@@ -28,4 +28,21 @@
 
 ## Лабораторная работа №2
 ### Создание виртуальной машины
-![видео](file:///C:/Users/Admin/Desktop/лаба%202.mp4)
+![видео находится здесь](https://drive.google.com/file/d/1vX6C8mW0J2JBPJR94yE7J0SICAHJS34W/view?usp=sharing)
+## Лабораторная работа №3а
+### Вариант 1 - Скопировать из все изображения в папку резервного хранения.
+### Сперва установим nano, чтобы можно было удобно работать с кодом
+![](https://github.com/Stapok132/-/blob/main/image/1q.png)
+### Создаём 2 папки (images1 и images2), добавим изображение к 1 папке и пренеём всё во 2 папку при помощи bash
+![](https://github.com/Stapok132/-/blob/main/image/2q.png)
+### main.sh прописываем сам алгоритм по которуму всё будет переноситься
+![](https://github.com/Stapok132/-/blob/main/image/3q.png)
+### мы покажем что папки и были пустыми послечего чего запускаем и проверяем копирование в дуругую папку
+![](https://github.com/Stapok132/-/blob/main/image/4q.png)
+## Лабораторная работа №3b
+### заходим в Windows PowerShell чтобы создать файл для скрипта
+![](https://github.com/Stapok132/-/blob/main/image/1w.png)
+### Редактируем скрипт под PowerShell
+![](https://github.com/Stapok132/-/blob/main/image/2w.png)
+### В папку 2 добавляем одно изображение и проверяем наличие. Запускаем скрипт и копируем файл в папку 3
+![](https://github.com/Stapok132/-/blob/main/image/3w.png)
