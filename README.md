@@ -25,3 +25,7 @@
 ![](https://github.com/Stapok132/-/blob/main/image/10.png)
 ### 2)Обновлённый Makefile
 ![](https://github.com/Stapok132/-/blob/main/image/11.png)
+
+## Лабораторная работа №2
+### Создание виртуальной машины
+![видео](file:///C:/Users/Admin/Desktop/лаба%202.mp4)
